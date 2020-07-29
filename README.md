@@ -8,4 +8,4 @@
 1. PCA-97%
 2. LDA-100%
 3. Kernel PCA-96%
-###As you can see by using LDA for this dataset it gave me 100% accuracy with logistic regression classifier
+### As you can see by using LDA for this dataset it gave me 100% accuracy with logistic regression classifier
